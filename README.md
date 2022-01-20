@@ -1,2 +1,2 @@
-Hi!! My name is AlvaroRX, 
+Hi!! My name is AlvaroRX
 - 🌱 I’m currently learning LUA, HTML, JS
